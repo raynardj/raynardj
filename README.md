@@ -27,7 +27,7 @@
 > I TALK SLOW, PLESAE WATCH IN `1.75x+`, just trying to record ideas, and understanding
 
 ### Explaining my creation
-* [Visualize Paper Movement in 10 Minutes](https://www.youtube.com/watch?v=wSzWUUIyVHk)
+* [Visualize Embedding Movement in 10 Minutes](https://www.youtube.com/watch?v=wSzWUUIyVHk)
 * [LLM in your command line glow-cli](https://www.youtube.com/watch?v=FxzfxZ6MHWQ)
 * A chrome extension using NLP[sa system - BioInformatics Reading Assistant](https://www.youtube.com/watch?v=-lxs1R08DNQ)
 * Tutorial to langhuan (mentioned above): [tutorial: Label NER, classification for nlp (text) tasks](https://www.youtube.com/watch?v=Nwh6roiX_9I)
