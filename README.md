@@ -23,8 +23,16 @@
 * [Huggingface profile](https://huggingface.co/raynardj), it's before the chatgpt era, some for medical research paper extraction, some for ancient chinese. Most `space` haven't catch up with maintenance much.
 
 ## Here are some videos I made 📺
-> just trying to record ideas, and understanding
-* [LLM in your command line glow-cli](https://www.youtube.com/watch?v=FxzfxZ6MHWQ)
-* [Clippy! Paper on Youtube Recommender Solving Loss Divergence](https://www.youtube.com/watch?v=tnA5AVCGKZU)
+> I TALK SLOW, PLESAE WATCH IN `1.75x+`, just trying to record ideas, and understanding
 
+### Explaining my creation
+* [Visualize Paper Movement in 10 Minutes](https://www.youtube.com/watch?v=wSzWUUIyVHk)
+* [LLM in your command line glow-cli](https://www.youtube.com/watch?v=FxzfxZ6MHWQ)
+* A chrome extension using NLP[sa system - BioInformatics Reading Assistant](https://www.youtube.com/watch?v=-lxs1R08DNQ)
+* Tutorial to langhuan (mentioned above): [tutorial: Label NER, classification for nlp (text) tasks](https://www.youtube.com/watch?v=Nwh6roiX_9I)
+
+### Paper analysis
+* [Clippy! Paper on Youtube Recommender Solving Loss Divergence](https://www.youtube.com/watch?v=tnA5AVCGKZU)
+* [🍦VanillaNet Deep Dive in 14 Minutes](https://www.youtube.com/watch?v=o8pJcvL8Lw8)
+* [Why Transformers for NLP, but not LSTM](https://www.youtube.com/watch?v=FNPhr4cJrls)
 
