@@ -18,6 +18,7 @@
 * [python4ml](https://github.com/raynardj/python4ml/tree/main): The library I kept accumulating the tutorial while teaching DL at cokerbunker(a coding community)
 * [unpackai](https://github.com/unpackAI/unpackai): a library I lead for teaching at unpackai.
 * As a person who's deeply interested in history and actual archaeological text, I put up and assortment of models to help accelerate ancient Chinese research: [yuan](https://github.com/raynardj/yuan), many of the model uploaded to huggingface's model hub.
+* [Docs](https://genomicare.github.io/docs/docs/experiments/) in forms of github pages show casing some of the experiments I did in Genomicare
 
 ### Models
 * [Huggingface profile](https://huggingface.co/raynardj), it's before the chatgpt era, some for medical research paper extraction, some for ancient chinese. Most `space` haven't catch up with maintenance much.
